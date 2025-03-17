@@ -1,0 +1,24 @@
+.content{
+    width: 100%;
+    margin: auto;
+}
+.sec-title{
+    margin-left: 10px;
+}
+.col-3{
+    background-color: #ddd;
+    float: left;
+    width: 400px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+}
+.btn{
+    margin-top: 50px;
+    padding: 15px;
+    background-color: #fff;
+    border: none;
+}
+.plus{
+    margin-left: 10px;
+}

@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.service{
+    width: 100%;
+}
+.service_02{
+    padding: 108px 0;
+    background-color: beige;
+}
+.column-4{
+    width: 40%;
+    float: left;
+}
+.column-8{
+    float: 60%;
+}
+.clearfix{
+    clear: both;
+}
+.title-content{
+    float: left;
+    background-color: bisque;
+    width: 50%;
+}
+.container{
+    width: 1380px;
+    margin: auto;
+}
+.mt-10{
+    margin-top: 30px;
+}
+.mt-25{
+    margin-top: 250px;
+}
+.content>h4{
+    text-transform: uppercase;
+     /*
+    대문자
+    text-transform: uppercase;
+    소문자
+    text-transform: low;
+    앞글자 대문자
+    text-
+    */
+}

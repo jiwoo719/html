@@ -1,0 +1,31 @@
+.container1{
+    width: 48%;
+    float: left;
+}
+.section2{
+    width: 1280px;
+    margin: auto;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.pc_ss02{
+    width: 100%;
+
+}
+.mt-40{
+    margin-top: 60px;
+}
+.mt-60{
+    margin-top: 100px;
+}
+.clearfix{
+    clear: both;
+}
+.ml-10{
+    margin-left: 40px;
+}
+
